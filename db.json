@@ -1,0 +1,8 @@
+{
+    "posts": [
+        {
+            "title": "My first Blog Entry",
+            "tags": "[JavaScript, Json-Server, React]"
+        }
+    ]
+}
