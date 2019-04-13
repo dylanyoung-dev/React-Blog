@@ -4,5 +4,15 @@
             "title": "My first Blog Entry",
             "tags": "[JavaScript, Json-Server, React]"
         }
+    ],
+    "navigation": [
+        {
+            "title": "Home",
+            "url": "/"
+        },
+        {
+            "title": "Blog",
+            "url": "/blog"
+        }
     ]
 }
